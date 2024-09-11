@@ -1,0 +1,12 @@
+/be_pro_impl.code-workspace
+/.conda
+/tempCodeRunnerFile.py
+*.pyc
+*.pyo
+Identity/
+Temp/
+RemoteCerts/
+holePunchC.py
+holePunchS.py
+test.py
+stegano_module.ipynb
